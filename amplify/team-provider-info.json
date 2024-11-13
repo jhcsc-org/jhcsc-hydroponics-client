@@ -1,0 +1,26 @@
+{
+  "local": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-verdureproject-local-3c157-authRole",
+      "UnauthRoleArn": "arn:aws:iam::861276077824:role/amplify-verdureproject-local-3c157-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::861276077824:role/amplify-verdureproject-local-3c157-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-verdureproject-local-3c157-deployment",
+      "UnauthRoleName": "amplify-verdureproject-local-3c157-unauthRole",
+      "StackName": "amplify-verdureproject-local-3c157",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:861276077824:stack/amplify-verdureproject-local-3c157/b5cf2f50-99b1-11ef-97b9-02c3f501164b",
+      "AmplifyAppId": "dpkqmqll1er96"
+    },
+    "categories": {
+      "auth": {
+        "verdureproject4e000e39": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dpkqmqll1er96",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
